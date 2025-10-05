@@ -1,0 +1,6 @@
+#How to design one code.
+print("Hello,World!")
+name = "Nanditha KS"
+age = 18
+cgpa = 10.0
+print(name,age,cgpa)
